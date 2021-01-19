@@ -1,10 +1,11 @@
 ---
-title: "Introduction to R"
+title: "Vectors"
 author: "Data Camp MOS "
 date: "`r Sys.time()`"
 output: 
   html_document: 
     highlight: textmate
+    keep_md: yes
     theme: cerulean
     toc: yes
     toc_float: yes
